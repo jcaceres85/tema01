@@ -1,0 +1,2 @@
+Este es un programa para hacer la suma entre dos numeros.
+Deberá contar con un interprete de Python.
